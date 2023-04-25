@@ -1,0 +1,1 @@
+bug1 : 因为音乐的searchname被实时watch，

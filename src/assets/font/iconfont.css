@@ -1,0 +1,140 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3976224 */
+  src: url('iconfont.woff2?t=1681564717299') format('woff2'),
+       url('iconfont.woff?t=1681564717299') format('woff'),
+       url('iconfont.ttf?t=1681564717299') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  cursor: pointer;
+}
+
+.icon-aixin:before {
+  content: "\e603";
+}
+
+.icon-chevron-right:before {
+  content: "\e65c";
+}
+
+.icon-chevron-left:before {
+  content: "\e65d";
+}
+
+.icon-igw-l-edit:before {
+  content: "\e617";
+  font-size: 16px;
+  color: white;
+}
+
+.icon-good:before {
+  content: "\e62a";
+  font-size: 15px;
+}
+
+.icon-bofang1:before {
+  content: "\e63a";
+}
+
+.icon-xiangshang:before {
+  content: "\e601";
+  font-size: 34px;
+}
+
+.icon-xiangxia:before {
+  content: "\e602";
+  font-size: 34px;
+  color: var(--words-gray);
+}
+
+.icon-24gl-repeatOnce2:before {
+  content: "\ea75";
+  font-size: 30px;
+  color: var(--normal-words);
+}
+
+.icon-shunxubofang:before {
+  content: "\e871";
+  font-size: 27px;
+  color: var(--normal-words);
+}
+
+.icon-jiazaizhong-biger:before {
+  content: "\e619";
+  font-size: 34px;
+  color: var(--normal-words);
+}
+
+.icon-jiazaizhong-smaller:before {
+  content: "\e619";
+  font-size: 32px;
+  color: var(--normal-words);
+}
+
+
+.icon-shangyishou:before {
+  content: "\e63c";
+  font-size: 34px;
+  color: var(--normal-words);
+}
+
+.icon-xiayishou:before {
+  content: "\e63e";
+  font-size: 34px;
+  color: var(--normal-words);
+}
+
+.icon-shengyin:before {
+  content: "\e8b8";
+  font-size: 34px;
+  color: var(--normal-words);
+}
+
+.icon-weibiaoti-bottom:before {
+  content: "\e60f";
+  font-size: 34px;
+  color: var(--normal-words);
+}
+
+.icon-bofang:before {
+  content: "\e60b";
+  font-size: 32px;
+  color: var(--normal-words);
+}
+
+.icon-weibiaoti:before {
+  content: "\e60f";
+  font-size: 32px;
+  color: var(--border-hovered);
+}
+
+.icon-bofang-bottom:before {
+  content: "\e60b";
+  font-size: 34px;
+  color: var(--normal-words);
+}
+
+.icon-chaxun:before {
+  content: "\e609";
+  font-size: 25px;
+  color: var(--body-background-color);
+}
+
+.icon-chaxun-artist:before {
+  content: "\e609";
+  font-size: 30px;
+  color: var(--normal-words);
+}
+
+.icon-wangyiyunyinleclick:before {
+  content: "\e600";
+  color: red;
+  font-size: 30px;
+}
+
+

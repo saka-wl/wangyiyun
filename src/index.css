@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+:root {
+  --red-words: rgb(180, 0, 0);
+  --red-words-hovered: rgb(255, 55, 55, 0.5);
+  --white-background-color: rgb(247, 247, 247);
+  --player-color: rgb(236, 236, 236);
+  --white-background-color-transparent: rgb(71, 71, 71, .5);
+  --body-background-color: rgb(235, 235, 235);
+  --body-background-color-opatity: rgb(235, 235, 235, .8);
+  --border-dark-color: rgb(212, 212, 212);
+  --words-gray: rgb(182, 182, 182);
+  --normal-words: rgb(71, 71, 71);
+  --border-hovered: rgb(24, 160, 88);
+  --blue-name: rgb(14, 165, 233);
+  --qqmusic-words: #31c27c;
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+  border-radius: inherit;
+  background-color: rgba(144, 147, 153, 0.3);
+  -webkit-transition: 0.3s background-color;
+  transition: 0.3s background-color;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: inherit;
+}
